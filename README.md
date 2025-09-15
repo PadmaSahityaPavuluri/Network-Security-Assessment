@@ -17,3 +17,5 @@
 |----------------|------|--------------------------------|-----------|
 | FTP (vsFTPd)   | 21   | Backdoor allows root access    | Critical  |
 | FTP Config     | 21   | Anonymous login enabled        | High      |
+
+⚠️ **Disclaimer:** This project was performed in a controlled lab environment (VirtualBox) for educational purposes only.
